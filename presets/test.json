@@ -2,6 +2,7 @@
     "default_model": "lustify.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
+    "default_vae": "lustify_vae.safetensors",
     "default_loras": [
         [
             true,
@@ -53,9 +54,5 @@
     "vae_downloads": {
         "lustify_vae.safetensors": "https://huggingface.co/John6666/lustify-sdxl-nsfwsfw-endgame-sdxl/blob/main/vae/diffusion_pytorch_model.safetensors",
         "config.json": "https://huggingface.co/John6666/lustify-sdxl-nsfwsfw-endgame-sdxl/blob/main/vae/config.json"
-    },
-    "unet_downloads": {
-        "lustify_unet.safetensors": "https://huggingface.co/John6666/lustify-sdxl-nsfwsfw-endgame-sdxl/blob/main/unet/diffusion_pytorch_model.safetensors",
-        "config.json": "https://huggingface.co/John6666/lustify-sdxl-nsfwsfw-endgame-sdxl/blob/main/unet/config.json"
     }
 }
