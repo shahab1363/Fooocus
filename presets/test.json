@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "lustify.safetensors": "https://civitai.com/api/download/models/1094291?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "lustify.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/4138/lustifyEndgame.OH7I.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22lustifySDXLNSFW_endgame.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20241214/us-east-1/s3/aws4_request&X-Amz-Date=20241214T034801Z&X-Amz-SignedHeaders=host&X-Amz-Signature=38d3d77ee183d1f04721e7e03b3872a2e3b25f7102babbe263740a4506ef8516",
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
 
     },
