@@ -43,7 +43,8 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "lustify.safetensors": "https://huggingface.co/John6666/lustify-sdxl-nsfwsfw-endgame-sdxl/resolve/main/unet/diffusion_pytorch_model.safetensors"
+        "lustify.safetensors": "https://huggingface.co/John6666/lustify-sdxl-nsfwsfw-endgame-sdxl/resolve/main/unet/diffusion_pytorch_model.safetensors",
+        "config.json": "https://huggingface.co/John6666/lustify-sdxl-nsfwsfw-endgame-sdxl/blob/main/unet/config.json"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
